@@ -10,7 +10,6 @@ This repository provides a set of stereo pairs for radargrammetry
 - Dense matching for radargrammetric DSM generation
 - Visualization of SAR amplitude
 - Rectified
-- قثزفه
 
 ## 📁 Data Source
 
