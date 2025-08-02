@@ -1,4 +1,4 @@
-# DenseMatching-
+# DenseMatching
 - Radargrammetric stereo subset extracted from Sentinel-1 SAR data 
 # Sentinel-1 SAR Processing  Data
 
